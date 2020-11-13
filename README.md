@@ -2,7 +2,7 @@
 # WorkoutTracker
 # Description: 
 
-    This program allows the user to track cardio and resistance workouts.  This app will help you stack on track to reach your fitness goals.
+    This program allows the user to track cardio and resistance workouts to assist them in reaching their fitness goals.  This app will help you stack on track as it allows you to add your workouts and view your stats for the week.
 
 # Table of Contents: 
 *[Installation](#installation)
@@ -23,7 +23,7 @@
 
 # Usage: 
 
-    You will start by clicking the green button that says new workout. You will then select the type of workout, cardio or resistance. For the cardio workouts, you can track the type of cardio, the distance, and the duration of the workout. Example: Running, 5 miles, 50 minutes. For the resistance workouts, you can track the type of resistance training, the weight used, the number of reps, the number of sets, and the duration. Example: Squats, 200 lbs., 4 sets, 10 reps, 15 minutes. You may then add the workout to your tracker. Then click the complete exercise button, fill in the information, and then complete the workout. Once you are finished with your workout, you can click on the Fitness Tracker Dashboard link and view your stats from the previous week. 
+    You will start by clicking the green button that says new workout. You will then select the type of workout, cardio or resistance. For the cardio workouts, you can track the type of cardio, the distance, and the duration of the workout. Example: Running, 5 miles, 50 minutes. For the resistance workouts, you can track the type of resistance training, the weight used, the number of reps, the number of sets, and the duration. Example: Squats, 200 lbs., 4 sets, 10 reps, 15 minutes. You may then add the workout to your tracker. Then click the complete exercise button, fill in the information for the last part of your workout, and then complete the workout. Once you are finished with your workout, you can click on the Fitness Tracker Dashboard link and view your stats from the previous week. 
 
 # License: 
 
